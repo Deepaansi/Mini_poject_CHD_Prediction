@@ -1,1 +1,1 @@
-# Mini_poject_Framingham_dataset
+# Mini_poject_CHD_Prediction 
